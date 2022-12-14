@@ -134,9 +134,7 @@ public class CalculadoraEnvios {
 					System.out.println(envio);
 					JOptionPane.showMessageDialog(null, "Coste del envío: " + envio.calcularImporte() +"€ ", "Calcula Envío", JOptionPane.INFORMATION_MESSAGE);
 				}
-					
-				
-			
+								
 			
 			}
 		});
